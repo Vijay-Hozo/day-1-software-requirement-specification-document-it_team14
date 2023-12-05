@@ -5,7 +5,7 @@
     </span>**
 </p>
 
-# <div style="text-align: CENTER"> EVENT MANAGEMENT SYSTEM  </div>
+# <div style="text-align: center"> EVENT MANAGEMENT SYSTEM  </div>
 
 An application for managing events, including registrations,
 schedules, and ticket sales. Event organizers can create, update, and delete

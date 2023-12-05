@@ -1,9 +1,10 @@
 **<p style="text-align:left;">
     TEAM 14
-    <span style="text-allign:right;">
-        PROJECT 9
+    <span style="text-align:right;">
+     PROJECT 9
     </span>**
 </p>
+
 
 # <div style="text-align: center"> EVENT MANAGEMENT SYSTEM  </div>
 

@@ -1,6 +1,6 @@
 **<p style="text-align:left;">
     TEAM 14
-    <span style="float:right;">
+    <span style="text-allign:right;">
         PROJECT 9
     </span>**
 </p>
